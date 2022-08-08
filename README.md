@@ -1,3 +1,5 @@
+![Hello World, I'm Vineet!](https://github.com/vjoshi253/vjoshi253/blob/main/HelloWorld.JPG)
+
 ### About
 
 🔭 I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning and Computer Vision. I have worked in the fields of 
@@ -20,6 +22,9 @@ Artificial Intelligence.
 
 ### Projects and Portfolio
 Link contains information about my research, side projects, course notes etc.
+
+### Hobbies
+In my free time I enjoy reading novels. I am into fiction novels (Thriller, Mystery and Fantasy) mostly. I also enjoy travelling and photography. 
 
 ### Connect
 ***Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vineet-joshi-7b0331152/) to stay connect with me or get to know me more.***
