@@ -17,7 +17,7 @@ pedestrian detection in different enviornments etc.
 projects ranging from usage of Prbabilistic Graphic Model for Explainable HIV interventions in Female Sex Workers, Agent Based Modelling to study COVID trends to Active 
 Learning for Person Re-identification models. 
 
-🎓 I received my Masters in Computer Sciene and Engineering from Indraprastha Institute of Information Technology Delhi (IIIT-Delhi) where my major focus area of 
+🎓 I received my Masters in Computer Sciene and Engineering from Indraprastha Institute of Information Technology Delhi (IIIT-Delhi) where my major focus area was 
 Artificial Intelligence.
 
 ### Projects and Portfolio
